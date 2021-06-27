@@ -20,6 +20,7 @@ for small to medium-sized companies.
 <br />
 [![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.facebook.com/jayar049)
 [![Node Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)](https://www.facebook.com/jayar049)
+[![Laravel Badge](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://www.facebook.com/jayar049)
 <br />
 [![JQuery Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://www.facebook.com/jayar049)
 [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://www.facebook.com/jayar049)
