@@ -1,10 +1,8 @@
 ## Hi!
-
-```
-I’m an innovative Web / Mobile Developer with over a year of experience 
-managing all aspects of the development process 
-for small to medium-sized companies.
-```
+<p>
+I’m an innovative Web / Mobile Developer with over a year of experience managing all aspects of the development process 
+<br/>for small to medium-sized companies.
+</p>
 <br />
 
 [![GitHub Status](https://github-readme-stats.vercel.app/api?username=jayariglesias&show_icons=true&theme=tokyonight&line_height=35&count_private=true)](https://facebook.com/jayar049)
