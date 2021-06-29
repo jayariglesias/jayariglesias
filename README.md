@@ -1,8 +1,18 @@
 ## Hi!
-<p>
-I’m an innovative Web / Mobile Developer with over a year of experience managing all aspects of the development process 
-<br/>for small to medium-sized companies.
+
+<p> 
+  <a href="https://github.com/jayariglesias/jayariglesias/">
+    <img src="https://komarev.com/ghpvc/?username=jayariglesias" alt="jayariglesias" />
+  </a>
+  <a href="https://github.com/jayariglesias">
+    <img height="20" src="https://img.shields.io/github/followers/jayariglesias?label=follow&logo=github&style=flat" alt="jayariglesias" />
+  </a>
 </p>
+
+<p>
+  I’m an innovative Web / Mobile Developer with over a year of experience managing all aspects of the development process 
+  <br/>for small to medium-sized companies.
+  </p>
 <br />
 
 [![GitHub Status](https://github-readme-stats.vercel.app/api?username=jayariglesias&show_icons=true&theme=tokyonight&line_height=35&count_private=true)](https://facebook.com/jayar049)
