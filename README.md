@@ -27,6 +27,9 @@ I’m an innovative Web / Mobile Developer with over a year of experience managi
 <br />
 [![Mongo Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.facebook.com/jayar049)
 [![MySql Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.facebook.com/jayar049)
+<br />
+[![Bootstrap Badge](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://www.facebook.com/jayar049)
+[![Styled Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://www.facebook.com/jayar049)
 <br /><br />
 
 ## Let`s Connect!
