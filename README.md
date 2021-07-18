@@ -10,8 +10,7 @@
 </p>
 
 <p>
-  I’m an innovative Web / Mobile Developer with over a year of experience managing all aspects of the development process 
-  <br/>for small to medium-sized companies.
+  I’m an innovative Web / Mobile Developer with over a year of experience managing all aspects of the development process for small to medium-sized companies.
   </p>
 <br />
 
