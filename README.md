@@ -16,6 +16,7 @@
 
 [![GitHub Status](https://github-readme-stats.vercel.app/api?username=jayariglesias&show_icons=true&theme=tokyonight&line_height=35&count_private=true)](https://facebook.com/jayar049)
 <br />
+<br />
 
 ## I`m Good at a Few Things
 
