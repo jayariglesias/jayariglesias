@@ -19,7 +19,7 @@
 <br />
 
 ## I`m Good at a Few Things
-
+[![VS Badge](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://www.facebook.com/jayar049)
 [![VS Badge](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://www.facebook.com/jayar049)
 [![Sublime Badge](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)](https://www.facebook.com/jayar049)
 <br />
