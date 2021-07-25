@@ -1,5 +1,4 @@
 ## Hello World!
-
 <p> 
   <a href="https://github.com/jayariglesias/jayariglesias/">
     <img src="https://komarev.com/ghpvc/?username=jayariglesias" alt="jayariglesias" />
@@ -8,7 +7,6 @@
     <img height="20" src="https://img.shields.io/github/followers/jayariglesias?label=follow&logo=github&style=flat" alt="jayariglesias" />
   </a>
 </p>
-
 <p>
   I’m an innovative Web / Mobile Developer with over a year of experience managing all aspects of the development process for small to medium-sized companies.
   </p>
@@ -49,6 +47,12 @@
 [![Debian Badge](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)](https://www.facebook.com/jayar049)
 [![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://www.facebook.com/jayar049)
 [![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.facebook.com/jayar049)
+<br />
+<br />
+
+## Currently Learning
+[![C# Badge](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://www.facebook.com/jayar049)
+[![.NET Badge](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://www.facebook.com/jayar049)
 <br />
 <br />
 
