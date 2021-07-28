@@ -51,6 +51,7 @@
 <br />
 
 ## Currently Learning
+[![Docker Badge](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.facebook.com/jayar049)
 [![C# Badge](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://www.facebook.com/jayar049)
 [![.NET Badge](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://www.facebook.com/jayar049)
 <br />
