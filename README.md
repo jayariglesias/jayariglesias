@@ -1,4 +1,4 @@
-## Hello World! 🤛🌍🤜
+## Hello World! 🌍
 <p> 
   <a href="https://github.com/jayariglesias/jayariglesias/">
     <img src="https://komarev.com/ghpvc/?username=jayariglesias" alt="jayariglesias" />
