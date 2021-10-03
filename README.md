@@ -10,7 +10,7 @@
 <p>
   I’m an innovative web / mobile developer with over a year of experience managing all aspects of the development process for small to medium-sized companies.
 </p>
-<table border="0">
+<table>
   <td>
      <img height="100%" width="475" src="https://github.com/jayariglesias/jayariglesias/blob/main/setup-2019.png" alt="jayariglesias" />
   </td>
