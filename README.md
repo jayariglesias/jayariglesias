@@ -9,11 +9,15 @@
 </p>
 <p>
   I’m an innovative web / mobile developer with over a year of experience managing all aspects of the development process for small to medium-sized companies.
-  </p>
-<br />
-
-[![GitHub Status](https://github-readme-stats.vercel.app/api?username=jayariglesias&show_icons=true&theme=tokyonight&line_height=35&count_private=true)](https://facebook.com/jayar049)
-<br />
+</p>
+<table border="0">
+  <td>
+     <img height="100%" width="475" src="https://github.com/jayariglesias/jayariglesias/blob/main/setup-2019.png" alt="jayariglesias" />
+  </td>
+  <td>
+      <img height="240" src="https://github-readme-stats.vercel.app/api?username=jayariglesias&show_icons=true&theme=tokyonight&line_height=35&count_private=true" alt="jayariglesias" />
+  </td>
+</table>
 <br />
 
 ## I`m Good at a Few Things
