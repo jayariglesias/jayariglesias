@@ -8,7 +8,7 @@
   </a>
 </p>
 <p>
-  I’m an innovative web / mobile developer with over a year of experience managing all aspects of the development process for small to medium-sized companies.
+  I’m an innovative software / web / mobile developer with over a year of experience managing all aspects of the development process for small to medium-sized companies.
 </p>
 <table>
   <td>
