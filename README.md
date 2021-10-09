@@ -12,10 +12,10 @@
 </p>
 <table>
   <td>
-     <img height="100%" width="475" src="https://github.com/jayariglesias/jayariglesias/blob/main/setup-2019.png" alt="jayariglesias" />
+     <img width="450px" src="https://github.com/jayariglesias/jayariglesias/blob/main/setup-2019.png" alt="jayariglesias" />
   </td>
   <td>
-      <img height="240" src="https://github-readme-stats.vercel.app/api?username=jayariglesias&show_icons=true&theme=tokyonight&line_height=35&count_private=true" alt="jayariglesias" />
+      <img width="450px" src="https://github-readme-stats.vercel.app/api?username=jayariglesias&show_icons=true&theme=tokyonight&line_height=35&count_private=true" alt="jayariglesias" />
   </td>
 </table>
 <br />
