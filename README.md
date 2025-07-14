@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-I'm an **innovative Full Stack Developer** with 1+ year of experience crafting end-to-end web, mobile, and software solutions. I’ve worked closely with small to medium-sized businesses to turn ideas into scalable products using modern tech stacks and clean architecture.
+I'm an **innovative Full Stack Developer** with **5+ years of experience** (since 2020) crafting end-to-end web, mobile, and software solutions. I’ve partnered with small to medium-sized businesses to transform ideas into scalable products using modern tech stacks and clean architecture.
 
 ---
 
@@ -34,6 +34,7 @@ I'm an **innovative Full Stack Developer** with 1+ year of experience crafting e
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://www.facebook.com/forjeonly)
 [![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white)](https://www.facebook.com/forjeonly)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.facebook.com/forjeonly)
+<br />
 [![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)](https://www.facebook.com/forjeonly)
 [![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://www.facebook.com/forjeonly)
 [![Izenda](https://img.shields.io/badge/Izenda-005792?style=for-the-badge&logoColor=white)](https://www.facebook.com/forjeonly)
@@ -48,9 +49,13 @@ I'm an **innovative Full Stack Developer** with 1+ year of experience crafting e
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.facebook.com/forjeonly)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://www.facebook.com/forjeonly)
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://www.facebook.com/forjeonly)
+<br />
+[![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)](https://www.facebook.com/forjeonly)
 [![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://www.facebook.com/forjeonly)
+[![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white)](https://www.facebook.com/forjeonly)
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://www.facebook.com/forjeonly)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://www.facebook.com/forjeonly)
+<br />
 [![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)](https://www.facebook.com/forjeonly)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://www.facebook.com/forjeonly)
 [![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://www.facebook.com/forjeonly)
