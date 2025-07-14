@@ -22,7 +22,7 @@ I'm an **innovative Full Stack Developer** with 1+ year of experience crafting e
 <p align="center">
   <img width="450px" src="https://github.com/jayariglesias/jayariglesias/blob/main/setup-2019.png" alt="jayariglesias workspace setup" />
   &nbsp;&nbsp;&nbsp;
-  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=jayariglesias&show_icons=true&theme=tokyonight&line_height=35&count_private=true" alt="GitHub stats" />
+  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=jayariglesias&show_icons=true&theme=tokyonight&line_height=35&count_private=false" alt="GitHub stats" />
 </p>
 
 ---
