@@ -71,6 +71,7 @@ I'm an **innovative Full Stack Developer** with **5+ years of experience** (sinc
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://www.facebook.com/forjeonly)
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://www.facebook.com/forjeonly)
 [![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)](https://www.facebook.com/forjeonly)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://www.facebook.com/forjeonly)
 
 ---
 
